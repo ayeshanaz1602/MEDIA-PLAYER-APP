@@ -81,3 +81,6 @@ UI:
 * The layout consists of a title TextView, SeekBar, and control buttons for play, pause, and skip.
 * The buttons respond to onClickListeners and update the MediaPlayer state accordingly.
 
+OUTPUT
+
+![image](https://github.com/user-attachments/assets/f97844f1-a972-4db5-bf81-9c24667774fd)
