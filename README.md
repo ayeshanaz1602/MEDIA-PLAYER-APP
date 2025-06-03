@@ -36,17 +36,14 @@ Technologies Used
 Project Structure
 com.example.mediaplayerapp
 ├── ui
-│   └── MainActivity.kt – main UI and logic controller
-├── model
+│   └── MainActivity.kt– main UI and logic controller
+├── data
 │   └── AudioFile.kt – data class representing an audio file
 ├── adapter
-│   └── AudioAdapter.kt – adapter for displaying a playlist (optional)
+│   └── MusicAdapter.kt – adapter for displaying a playlist (optional
+    |__PlayerService.kt
 ├── utils
 │   └── FileUtils.kt – utility functions to read and filter audio files
-└── res
-└── layout – activity\_main.xml, list\_item.xml
-└── drawable – icons
-└── values – strings, colors, styles
 
 Getting Started
 
